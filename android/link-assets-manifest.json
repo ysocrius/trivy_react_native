@@ -1,0 +1,237 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Poppins-Black.ttf",
+      "sha1": "45a0acc9c7dff6c56b7a488c609e32cdd79cf973"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-BlackItalic.ttf",
+      "sha1": "bddcb8e19c837269590521170df73ced9090b78c"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Bold.ttf",
+      "sha1": "98e843332b9e48b670bf3f461a2f5f52dac9ce94"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-BoldItalic.ttf",
+      "sha1": "35578c8bd083c53e68d659a629846b2d99589235"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "70c32501ad9820014c0bdeb05e23d9ae38d5b080"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraBoldItalic.ttf",
+      "sha1": "97220fdceb466e9b369334840355f7a64d66b8fc"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraLight.ttf",
+      "sha1": "1974fc4e9911c856adfd6ff3830db5d31e3b1df5"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraLightItalic.ttf",
+      "sha1": "181153265e4480593627958f98fcf56d8cbd3252"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Italic.ttf",
+      "sha1": "335f037a2886d74d59f4cfd8de0d7da4c2498725"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Light.ttf",
+      "sha1": "e635a87c96ce26d84e0c7527d2b1c15f2937e1b7"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-LightItalic.ttf",
+      "sha1": "571839c1de3a1f549862f4c327ede3a37a036b51"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/.gitignore",
+      "sha1": "175d459fbb590f87614784d4304f552d625db84d"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/build-GoogleFonts.py",
+      "sha1": "155474ebc749666c14bc2ba93511eacffec82cf9"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/build-Latin.py",
+      "sha1": "6c5ecbd81c977c89ddd2da2ba1e5215af1e07dcf"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/features/GoogleFonts/GSUB.fea",
+      "sha1": "c8eb928d53440705e058015526b56971a39b7592"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/GlyphOrderAndAliasDB-GoogleFonts",
+      "sha1": "398b07573058e4936ffb9a0733f786dc42c73d5e"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/GlyphOrderAndAliasDB-Latin",
+      "sha1": "71cf2e3e31b64ceb9eafff5657378b0fa1ee86e0"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/masters/Poppins Devanagari.glyphs",
+      "sha1": "0353ba1dbc1245c5ce5f89569259e7570c4fef30"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/masters/Poppins.glyphs",
+      "sha1": "1ac0f4aed8ce189296623e697c3bf8fec263f75c"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/OFL.txt",
+      "sha1": "cd45801f0bf0ba1b6dc6c800807fe422c21cc1e6"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-Black.ttx",
+      "sha1": "99cbd971bc305543cfb8c6cdd9cd0b3b9b89c2d3"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-BlackItalic.ttx",
+      "sha1": "d569a3748b40d17a22093f45797874cd053f887a"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-Bold.ttx",
+      "sha1": "547be0f90b21dbb2065be9cc589cefba1745441d"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-BoldItalic.ttx",
+      "sha1": "5a77234a2cb138fc063fceb49aa99e71de5d08c9"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-ExtraBold.ttx",
+      "sha1": "fcece6d3a3382c64b8891d0ead4766202e091be4"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-ExtraBoldItalic.ttx",
+      "sha1": "1284568751bd17206835474d2d7bdddf0989d3e8"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-ExtraLight.ttx",
+      "sha1": "0c183bcf8fe16fd176c405098abf4f00d985323a"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-ExtraLightItalic.ttx",
+      "sha1": "75b51a2bdfca7b7fec81a5bdec7d4ba0bb88bb0f"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-Italic.ttx",
+      "sha1": "7ede2d06ffdc599c94d04c2df36662f1c47405c8"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-Light.ttx",
+      "sha1": "e7636faab9e607116bbb0bc57ffde0d54c5523bd"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-LightItalic.ttx",
+      "sha1": "f465a9185a555056237fb61ad51df2558a7fac14"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-Medium.ttx",
+      "sha1": "3bc5a59957b5bf1461800be2c6bc2127bdb6db91"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-MediumItalic.ttx",
+      "sha1": "aed64f14fcc5c992ab5da031846d8e962689de81"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-Regular.ttx",
+      "sha1": "ca71cef17d5fb50e07ae7a855a2b258a63e8ffd0"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-SemiBold.ttx",
+      "sha1": "a5d4bdf7bcc1c08ec3ba2122d54bf899d75712e8"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-SemiBoldItalic.ttx",
+      "sha1": "85a5bf724c8a91cddfbf3d1e7cb318b4acd3c4d4"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-Thin.ttx",
+      "sha1": "8e9997f723137d302c86764211430cdd11534832"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF/Poppins-ThinItalic.ttx",
+      "sha1": "45daceab2a8739244fb62325a65e73764633a12d"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-OTF.zip",
+      "sha1": "1400dfd35597cb23c4f07d39adef9bd515edb87b"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/Poppins-4.003-GoogleFonts-TTF.zip",
+      "sha1": "cbda544cc50c13813c4843ac131c9358f1d06268"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/PoppinsLatin-5.001-Latin-OTF.zip",
+      "sha1": "4486c96a004a5e2373cd4d57f1ff8c1dfcaaec76"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/products/PoppinsLatin-5.001-Latin-TTF.zip",
+      "sha1": "c309b9c87894feeb9317205416ecf77757b380f5"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/README.md",
+      "sha1": "506db407fd0cf807c8dd5e19206664f51970d62a"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/resources/ITF Misc.glyphs",
+      "sha1": "d88a52011d486b21bcbb2cb42a2efbea0f2987cb"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/resources/Poppins_Revisions_131217.pdf",
+      "sha1": "c37729f2ef520744676afa60b76f2558dd1a6cf1"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/variable/OTF (Beta)/Poppins-Italic-VariableFont_wght.otf",
+      "sha1": "e6b05a90dea6fff953e29a24e71769ac0935dd04"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/variable/OTF (Beta)/Poppins-VariableFont_wght.otf",
+      "sha1": "fb3ae82fd5dc035e9fa4d5ac8e9e3dd0e9d14541"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/variable/TTF (Beta)/Poppins-Italic-VariableFont_wght.ttf",
+      "sha1": "360b962b6b821022303b270ee98a06cbe503357b"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/variable/TTF (Beta)/Poppins-VariableFont_wght.ttf",
+      "sha1": "9c057bae7d47ac6ef2e96e142d130f389e03e930"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/version-GoogleFonts.txt",
+      "sha1": "55690f86c7801d20030927d7ae661035b7d5ace7"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-master/version-Latin.txt",
+      "sha1": "0d8d094e8c7d506b4d6ecfec311b432877614446"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Medium.ttf",
+      "sha1": "559d6036a83833b38313d0049a615167c5eac975"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-MediumItalic.ttf",
+      "sha1": "727434b74aa55515b1882a67deab73d9dee801d9"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fd3c903aa49998e7ac7eb75a2b8c0637a4f99b08"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "b90dd2e16f666019d6a65247e574eff7f04366e3"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-SemiBoldItalic.ttf",
+      "sha1": "c6e2a15c87eb332b7380446f6019412204c8026b"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Thin.ttf",
+      "sha1": "0389c78347f96409ec8610715bb974fc873ada5e"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ThinItalic.ttf",
+      "sha1": "6b5a61576e1bfb7755d976d977b0b3f287613bfd"
+    }
+  ]
+}
